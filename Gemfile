@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'listen'
     gem 'classifier-reborn'
-    gem 'jekyll'
+    gem 'jekyll', '4.3.2'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
