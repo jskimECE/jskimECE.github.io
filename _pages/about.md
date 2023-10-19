@@ -15,7 +15,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Update
+Updated
 
 I am an assistant professor in the Department of Electrical Engineering at <a href='https://kma.ac.kr:461/kma/427/subview.do'>Korea Military Academy</a>, and I am also serving in the Republic of Korea Army as a captain.
 
