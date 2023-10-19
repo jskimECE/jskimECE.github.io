@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^9.8.1",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
