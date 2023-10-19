@@ -8,7 +8,8 @@ profile:
   align: right
   image: junseob.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
+  
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -21,4 +22,6 @@ I received my MS degree in Electrical Engineering from <a href='https://www.tamu
 
 My research interests include radar signal processing, machine learning, optimization, and military communication systems.
 
-Contact: <a href='mailto:junseobkim@kma.ac.kr'>junseobkim@kma.ac.kr</a>
+:envelope: junseobkim [at] kma [dot] ac [dot] kr
+
+:round_pushpin: 574, Hwarang-ro, Nowon-gu, Seoul, Republic of Korea
