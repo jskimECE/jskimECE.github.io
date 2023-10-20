@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-8-28 08:00:00-0400
+date: 2023-3-19 09:39:00-0400
 inline: true
 related_posts: false
 ---
 
-The new semester has started, and I'm teaching AI-Centric Military and Military Communications and Electronics this semester!
+<span style="color: black; font-weight: bold;">My adorable son, Doeun, has come into the world!</span> :baby:

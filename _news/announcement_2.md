@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-8-28 08:00:00-0400
+date: 2023-6-30 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-The new semester has started, and I'm teaching AI-Centric Military and Military Communications and Electronics this semester!
+Our paper has been published in <span style="color: black; font-weight: bold; font-style: italic">IEEE Transactions on NanoBioscience</span>.
+
