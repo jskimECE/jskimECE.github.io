@@ -25,5 +25,3 @@ My research interests include radar signal processing, machine learning, optimiz
 :envelope: junseobkim [at] kma [dot] ac [dot] kr
 
 :round_pushpin: 574, Hwarang-ro, Nowon-gu, Seoul, Republic of Korea
-
-Last Update: 2023-10-21

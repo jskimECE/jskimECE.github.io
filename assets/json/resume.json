@@ -1,76 +1,62 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Junseob Kim",
+    "affiliation": "Dept. of Electrical Engineering, Korea Military Academy",
+    "rank": "Captain",
+    "email": "junseobkim [at] kma [dot] ac [dot] kr",
+    "url": "https://jskimece.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "574, Hwarang-ro",
+      "postalCode": "01805",
+      "city": "Seoul",
+      "countryCode": "KR"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Dept. of Electrical Engineering, Korea Military Academy",
+      "position": "Assistant Professor",
+      "startDate": "2021",
+      "endDate": "present"
+    },
+    {
+      "name": "Dept. of Electrical Engineering, Korea Military Academy",
+      "position": "Full-time Instructor",
+      "startDate": "2020",
+      "endDate": "2021"
+    },
+    {
+      "name": "17th Infantry Division, Republic of Korea Army",
+      "position": "Reconnaissance Battalion Platoon Leader",
+      "startDate": "2016",
+      "endDate": "2017"
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
+      "institution": "Texas A&M University, College Station, USA",
+      "url": "https://tamu.edu/index.html/",
+      "area": "Electrical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2018",
+      "endDate": "2020"
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Korea Military Academy, Seoul, Republic of Korea",
+      "url": "https://www.kma.ac.kr/",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012",
+      "endDate": "2016"
     }
   ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
