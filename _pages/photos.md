@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
-**IEEE Internatioanl Radar Conference in Sydney 2023**
+**IEEE International Radar Conference in Sydney 2023**
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
