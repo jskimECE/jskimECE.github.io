@@ -98,3 +98,11 @@
 .news-archive th {
   width: 3.5rem;
 }
+
+// Keep link color on emphasized text inside links (the theme colors strong/em/span directly)
+a strong,
+a em,
+a b,
+a span {
+  color: inherit;
+}
