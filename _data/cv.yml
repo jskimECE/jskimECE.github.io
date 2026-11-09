@@ -3,95 +3,167 @@
   contents:
     - name: Full Name
       value: Junseob Kim
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Affiliation
+      value: Department of Electrical and Computer Engineering, Duke University
+    - name: Email
+      value: junseob.kim@duke.edu
+    - name: Military
+      value: Major, Republic of Korea Army
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Student, Electrical and Computer Engineering
+      institution: Duke University, Durham, North Carolina, USA
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervised by Prof. Rishikesan Kamaleswaran
+        - "GPA: 4.0/4.0"
+    - title: M.S., Electrical and Computer Engineering
+      institution: Texas A&M University, College Station, Texas, USA
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - Supervised by Prof. Robert D. Nevels
+        - "Thesis: Propagation of High Power and Short Electromagnetic Wave in Nonlinear Dispersive Media"
+        - "GPA: 4.0/4.0"
+    - title: B.S., Electrical Engineering
+      institution: Korea Military Academy, Seoul, Republic of Korea
+      year: 2012 - 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Supervised by Prof. Yongchul Kim
+        - "GPA (Major): 4.14/4.3, graduated with honors"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Research Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - AI in Healthcare, Signal Processing, Machine Learning, Medical Video Understanding
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Kamaleswaran Lab, Duke University
+      year: 2025 - Present
+    - title: Assistant Professor
+      institution: Department of Electrical Engineering, Korea Military Academy
+      year: 2021 - 2024
+    - title: Education and Analysis Officer
+      institution: Leadership Center, Korea Military Academy
+      year: 2022 - 2023
+    - title: Full-time Instructor
+      institution: Department of Electrical Engineering, Korea Military Academy
+      year: 2020 - 2021
+    - title: Reconnaissance Battalion Platoon Leader
+      institution: 17th Infantry Division, Republic of Korea Army
+      year: 2016 - 2017
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: AI-Assisted Trauma Video Review for Resuscitation Assessment
+      year: 2026 - Present
+    - title: Generative EHR Foundation Models for Pediatric Perioperative Risk Prediction
+      year: 2025 - Present
+    - title: Seismocardiography-Based Valvular Heart Disease Classification with Multimodal Deep Learning
+      year: 2025
+    - title: Organization and Evaluation of the 2024 Pediatric Sepsis Data Challenge
+      year: 2025
+    - title: Development of Methods for Tracking, Verification, and Removal of Unknown Terrorist Substances (III)
+      institution: National Institute of Chemical Safety
+      year: 2023
+    - title: Low Probability of Intercept (LPI) Radar Signal Classification using Deep Learning Techniques
+      institution: Future Strategy and Technology Research Institute
+      year: 2023
+    - title: Cyber Electronic Warfare Operations Concept for Drone Operations
+      institution: Hwarangdae Research Institute
+      year: 2023
+    - title: Development of Predictive Technology for Terrorist Material Characteristics (III)
+      institution: National Institute of Chemical Safety
+      year: 2022
+    - title: Research and Development of Intelligent Radar Signal Detection Technology
+      institution: Korea Research Institute for Defense Technology Planning and Advancement
+      year: 2022 - 2024
+    - title: Enhancement of Physical Layer Security Transmission Techniques for Visible Light Communication
+      institution: National Research Foundation of Korea
+      year: 2022 - 2025
+    - title: Analysis on Information Exchange Capability of Military Satellite Communication System (III)
+      institution: Agency for Defense Development
+      year: 2021 - 2022
+    - title: Research on the Application of Cyber Electronic Warfare in the Army
+      institution: Hwarangdae Research Institute
+      year: 2021
+    - title: Analysis on Information Exchange Capability of Mobile Integrated Communication System
+      institution: Agency for Defense Development
+      year: 2020 - 2021
+    - title: Analysis of Domestic Operational Environment and Operational Concepts for Establishing an Aerial Network
+      institution: Agency for Defense Development
+      year: 2020 - 2021
+
+- title: Awards and Honors
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Top 5 Finalist, DARPA Triage Challenge Phase 3 Data Competition (Team OCA-Sentinel)
+    - year: 2022, 2023
+      items:
+        - Two Awards for Recognition of the Excellence in Service, Superintendent of Korea Military Academy
+    - year: 2022
+      items:
+        - Award for Contribution to Leadership Research, Commandant of Korea Military Academy
+    - year: 2020
+      items:
+        - Outstanding Performance in M.S. Study, Army Human Resource Commander
+    - year: 2016
+      items:
+        - Best Platoon of the Division, 17th Infantry Division Commander
+        - JAEGU Award, Graduation Ceremony, Superintendent of Korea Military Academy
+    - year: 2015
+      items:
+        - Best Graduate Dissertation Award, Dean of the Academic Board of Korea Military Academy
+
+- title: Scholarships
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Duke University ECE Travel Grant
+    - year: 2018 - 2020
+      items:
+        - Republic of Korea Army Graduate Study Scholarship (M.S.)
+    - year: 2019
+      items:
+        - Texas A&M University Graduate Student Travel Grant
+    - year: 2015
+      items:
+        - BYUNGSOO RHO Scholarship Prize for the Best Paper Award
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: "Teaching Assistant, ECE 590: Practical Machine Learning"
+      institution: Duke University
+      year: Fall 2026
+    - title: Engineering Mathematics
+      institution: Korea Military Academy
+      year: 2021 - 2023
+    - title: AI-Centric Future Military ICT
+      institution: Korea Military Academy
+      year: 2021 - 2023
+    - title: Military Communications and Electronics
+      institution: Korea Military Academy
+      year: 2020, 2023
+    - title: Introduction to Military Engineering
+      institution: Korea Military Academy
+      year: 2021
+    - title: Military Engineering Projects
+      institution: Korea Military Academy
+      year: 2021 - 2022
+
+- title: Computing Skills
+  type: map
+  contents:
+    - name: Programming
+      value: MATLAB, Python, C#
+    - name: Tools
+      value: Git/GitHub, VS Code, PyTorch, LaTeX, COMSOL Multiphysics, Unity

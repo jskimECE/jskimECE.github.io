@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to the <span style="color: black; font-weight: bold; font-style: italic">IEEE International Radar Conference 2023</span>, and I will be giving an oral presentation in Sydney!
+Our paper has been accepted to the <strong><em>IEEE International Radar Conference 2023</em></strong>, and I will be giving an oral presentation in Sydney!

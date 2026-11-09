@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="color: black; font-weight: bold;">My adorable son, Doeun, has come into the world!</span> :baby:
+<strong>My adorable son, Doeun, has come into the world!</strong> :baby:

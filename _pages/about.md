@@ -2,26 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Dept. of Electrical Engineering, <a href='https://kma.ac.kr:461/kma/427/subview.do'>Korea Military Academy</a>.
+subtitle: Ph.D. Student, Department of Electrical and Computer Engineering, <a href='https://ece.duke.edu/'>Duke University</a>
 
 profile:
   align: right
   image: junseob.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
-  
+  more_info: >
+    <p>Department of Electrical and Computer Engineering</p>
+    <p>Duke University</p>
+    <p>Durham, NC, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
-I am an assistant professor in the Department of Electrical Engineering at <a href='https://kma.ac.kr:461/kma/427/subview.do'>Korea Military Academy</a>, and I am also serving in the Republic of Korea Army as a captain.
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at <a href='https://ece.duke.edu/'>Duke University</a>, advised by Prof. Rishikesan Kamaleswaran in the Kamaleswaran Lab. I am also a Major in the Republic of Korea Army.
 
-I received my MS degree in Electrical Engineering from <a href='https://www.tamu.edu/index.html'>Texas A&M University</a> in 2020, and my BS degree in Electrical Engineering from <a href='https://kma.ac.kr:461/kma/427/subview.do'>Korea Military Academy</a> in 2016.
+My research focuses on AI in healthcare, with an emphasis on generative foundation models for electronic health records, biomedical vision-language models, and medical video understanding. Recent work includes vision-language models and doctrine-grounded datasets for Tactical Combat Casualty Care, generative EHR pretraining for pediatric perioperative risk prediction, and multimodal deep learning for cardiac and sleep signals.
 
-My research interests include radar signal processing, machine learning, optimization, and military communication systems.
+Before joining Duke, I was an Assistant Professor in the Department of Electrical Engineering at <a href='https://www.kma.ac.kr/'>Korea Military Academy</a> (2021 to 2024), where I worked on radar signal processing, deep learning for LPI radar recognition, and military communication systems. I received my M.S. in Electrical and Computer Engineering from <a href='https://www.tamu.edu/'>Texas A&M University</a> in 2020 and my B.S. in Electrical Engineering from Korea Military Academy in 2016.
 
-:envelope: junseobkim [at] kma [dot] ac [dot] kr
-
-:round_pushpin: 574, Hwarang-ro, Nowon-gu, Seoul, Republic of Korea
+:envelope: junseob.kim [at] duke [dot] edu
