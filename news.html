@@ -6,4 +6,26 @@ nav: true
 nav_order: 2
 ---
 
-{% include news.html %}
+{%- assign news = site.news | reverse -%}
+{%- assign news_by_year = news | group_by_exp: "item", "item.date | date: '%Y'" -%}
+<div class="news news-archive">
+{%- for year in news_by_year %}
+  <h2 class="news-year">{{ year.name }}</h2>
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+    {%- for item in year.items %}
+      <tr>
+        <th scope="row">{{ item.date | date: "%b" }}</th>
+        <td>
+          {% if item.inline -%}
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+          {%- else -%}
+            <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {%- endif %}
+        </td>
+      </tr>
+    {%- endfor %}
+    </table>
+  </div>
+{%- endfor %}
+</div>

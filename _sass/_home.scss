@@ -84,3 +84,17 @@
   color: var(--global-theme-color);
   text-decoration: none;
 }
+
+.news-archive .news-year {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: var(--global-theme-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 0.3rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.news-archive th {
+  width: 3.5rem;
+}
