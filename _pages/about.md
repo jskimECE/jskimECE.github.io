@@ -30,6 +30,6 @@ contact: |
 
 ---
 
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at <a href='https://ece.duke.edu/'>Duke University</a>, advised by Prof. Rishikesan Kamaleswaran in the Kamaleswaran Lab, and a Major in the Republic of Korea Army. My research develops AI for healthcare, with a focus on biomedical vision-language models, medical video understanding, and foundation models for electronic health records.
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at <a href='https://ece.duke.edu/'>Duke University</a>, advised by Prof. Rishikesan Kamaleswaran in the <a href='https://www.kamaleswaran.com/'>Kamaleswaran Lab</a>, and a Major in the Republic of Korea Army. My research develops AI for healthcare, with a focus on biomedical vision-language models, medical video understanding, and foundation models for electronic health records.
 
 {% include home_sections.html %}
