@@ -1,0 +1,52 @@
+/*******************************************************************************
+ * Home page sections (education, appointments, research interests, contact)
+ ******************************************************************************/
+
+.home-rows {
+  margin: 0.25rem 0 1.25rem;
+}
+
+.home-row {
+  display: flex;
+  gap: 1rem;
+  padding: 0.3rem 0;
+}
+
+.home-year {
+  flex: 0 0 7rem;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  padding-top: 0.05rem;
+}
+
+.home-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.home-title {
+  font-weight: 500;
+}
+
+.home-sub {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
+.interest {
+  padding: 0.3rem 0;
+}
+
+.home-contact p {
+  margin-bottom: 0.25rem;
+}
+
+@media (max-width: 576px) {
+  .home-row {
+    flex-direction: column;
+    gap: 0;
+  }
+  .home-year {
+    flex-basis: auto;
+  }
+}

@@ -16,12 +16,14 @@
     - title: Ph.D. Student, Electrical and Computer Engineering
       institution: Duke University, Durham, North Carolina, USA
       year: 2025 - Present
+      home_sub: "Duke University · Advisor: Prof. Rishikesan Kamaleswaran"
       description:
         - Supervised by Prof. Rishikesan Kamaleswaran
         - "GPA: 4.0/4.0"
     - title: M.S., Electrical and Computer Engineering
       institution: Texas A&M University, College Station, Texas, USA
       year: 2018 - 2020
+      home_sub: "Texas A&M University · Advisor: Prof. Robert D. Nevels"
       description:
         - Supervised by Prof. Robert D. Nevels
         - "Thesis: Propagation of High Power and Short Electromagnetic Wave in Nonlinear Dispersive Media"
@@ -29,6 +31,7 @@
     - title: B.S., Electrical Engineering
       institution: Korea Military Academy, Seoul, Republic of Korea
       year: 2012 - 2016
+      home_sub: "Korea Military Academy · Advisor: Prof. Yongchul Kim"
       description:
         - Supervised by Prof. Yongchul Kim
         - "GPA (Major): 4.14/4.3, graduated with honors"
@@ -44,15 +47,22 @@
     - title: Research Assistant
       institution: Kamaleswaran Lab, Duke University
       year: 2025 - Present
+      home: true
     - title: Assistant Professor
       institution: Department of Electrical Engineering, Korea Military Academy
       year: 2021 - 2024
+      home: true
     - title: Education and Analysis Officer
       institution: Leadership Center, Korea Military Academy
       year: 2022 - 2023
     - title: Full-time Instructor
       institution: Department of Electrical Engineering, Korea Military Academy
       year: 2020 - 2021
+      home: true
+    - title: Officer (Major)
+      institution: Republic of Korea Army
+      year: 2016 - Present
+      home: true
     - title: Reconnaissance Battalion Platoon Leader
       institution: 17th Infantry Division, Republic of Korea Army
       year: 2016 - 2017

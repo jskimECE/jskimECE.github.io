@@ -13,14 +13,23 @@ profile:
 news: true  # includes the latest news items (limit set in _config.yml)
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # contact links are listed in the contact section instead
+interests:
+  - name: Biomedical vision-language models
+    desc: Domain-specialized VLMs and knowledge distillation for clinical and tactical medicine.
+  - name: Medical video understanding
+    desc: Video-based assessment of trauma care, including Tactical Combat Casualty Care and resuscitation review.
+  - name: EHR foundation models
+    desc: Generative and joint-embedding pretraining on longitudinal EHR for clinical risk prediction.
+  - name: Physiological signal AI
+    desc: Deep learning on seismocardiography and polysomnography for cardiac and cognitive outcomes.
+contact: |
+  :envelope: junseob.kim [at] duke [dot] edu  
+  :mortar_board: [Google Scholar](https://scholar.google.com/citations?user=b-AulWIAAAAJ)  
+  :briefcase: [LinkedIn](https://www.linkedin.com/in/junseob-kim-755467281/)
+
 ---
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at <a href='https://ece.duke.edu/'>Duke University</a>, advised by Prof. Rishikesan Kamaleswaran in the Kamaleswaran Lab. I am also a Major in the Republic of Korea Army.
 
-My research focuses on AI in healthcare, with an emphasis on generative foundation models for electronic health records, biomedical vision-language models, and medical video understanding. Recent work includes vision-language models and doctrine-grounded datasets for Tactical Combat Casualty Care, generative EHR pretraining for pediatric perioperative risk prediction, and multimodal deep learning for cardiac and sleep signals.
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at <a href='https://ece.duke.edu/'>Duke University</a>, advised by Prof. Rishikesan Kamaleswaran in the Kamaleswaran Lab, and a Major in the Republic of Korea Army. My research develops AI for healthcare, with a focus on biomedical vision-language models, medical video understanding, and foundation models for electronic health records.
 
-Before joining Duke, I was an Assistant Professor in the Department of Electrical Engineering at <a href='https://www.kma.ac.kr/'>Korea Military Academy</a> (2020 to 2024), where I worked on radar signal processing, deep learning for LPI radar recognition, and military communication systems. I received my M.S. in Electrical and Computer Engineering from <a href='https://www.tamu.edu/'>Texas A&M University</a> in 2020 and my B.S. in Electrical Engineering from Korea Military Academy in 2016.
-
-:envelope: junseob.kim [at] duke [dot] edu  
-:mortar_board: [Google Scholar](https://scholar.google.com/citations?user=b-AulWIAAAAJ)  
-:briefcase: [LinkedIn](https://www.linkedin.com/in/junseob-kim-755467281/)
+{% include home_sections.html %}

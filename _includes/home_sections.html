@@ -1,0 +1,20 @@
+{%- assign edu = site.data.cv | where: "title", "Education" | first -%}
+{%- assign work = site.data.cv | where: "title", "Work Experience" | first -%}
+<h2>education</h2>
+<div class="home-rows">
+{%- for e in edu.contents -%}
+<div class="home-row"><div class="home-year">{{ e.year }}</div><div class="home-main"><div class="home-title">{{ e.title }}</div><div class="home-sub">{{ e.home_sub | default: e.institution }}</div></div></div>
+{%- endfor -%}
+</div>
+<h2>appointments</h2>
+<div class="home-rows">
+{%- for w in work.contents -%}{%- if w.home -%}
+<div class="home-row"><div class="home-year">{{ w.year }}</div><div class="home-main"><div class="home-title">{{ w.title }}</div><div class="home-sub">{{ w.institution }}</div></div></div>
+{%- endif -%}{%- endfor -%}
+</div>
+<h2>research interests</h2>
+<div class="home-rows">
+{%- for r in page.interests -%}
+<div class="interest"><div class="home-title">{{ r.name }}</div><div class="home-sub">{{ r.desc }}</div></div>
+{%- endfor -%}
+</div>
