@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Student, Department of Electrical and Computer Engineering, <a href='https://ece.duke.edu/'>Duke University</a>
 

@@ -8,6 +8,7 @@ middle_name:
 last_name: Kim
 email: junseob.kim@duke.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Ph.D. student in Electrical and Computer Engineering at Duke University. Research on biomedical vision-language models, medical video understanding, EHR foundation models, and physiological signal AI.
 footer_text: >
 keywords: clinical AI, EHR foundation models, vision-language models, medical video understanding, Duke University
 
@@ -55,9 +56,9 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://jskimece.github.io/assets/img/junseob.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
