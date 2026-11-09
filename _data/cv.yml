@@ -17,7 +17,9 @@
       institution: Duke University, Durham, North Carolina, USA
       year: 2025 - Present
       home_school: Duke University
-      home_note: "Advisor: Prof. Rishikesan Kamaleswaran"
+      home_url: https://www.duke.edu/
+      home_advisor: Prof. Rishikesan Kamaleswaran
+      home_advisor_url: https://scholar.google.com/citations?user=Qlq7GEQAAAAJ
       description:
         - Supervised by Prof. Rishikesan Kamaleswaran
         - "GPA: 4.0/4.0"
@@ -25,7 +27,8 @@
       institution: Texas A&M University, College Station, Texas, USA
       year: 2018 - 2020
       home_school: Texas A&M University
-      home_note: "Advisor: Prof. Robert D. Nevels"
+      home_url: https://www.tamu.edu/
+      home_advisor: Prof. Robert D. Nevels
       description:
         - Supervised by Prof. Robert D. Nevels
         - "Thesis: Propagation of High Power and Short Electromagnetic Wave in Nonlinear Dispersive Media"
@@ -34,7 +37,8 @@
       institution: Korea Military Academy, Seoul, Republic of Korea
       year: 2012 - 2016
       home_school: Korea Military Academy
-      home_note: "Advisor: Prof. Yongchul Kim"
+      home_url: https://www.kma.ac.kr/
+      home_advisor: Prof. Yongchul Kim
       description:
         - Supervised by Prof. Yongchul Kim
         - "GPA (Major): 4.14/4.3, graduated with honors"
@@ -51,10 +55,12 @@
       institution: Kamaleswaran Lab, Duke University
       year: 2025 - Present
       home: true
+      home_url: https://www.kamaleswaran.com/
     - title: Assistant Professor
       institution: Department of Electrical Engineering, Korea Military Academy
       year: 2021 - 2024
       home: true
+      home_url: https://www.kma.ac.kr/
     - title: Education and Analysis Officer
       institution: Leadership Center, Korea Military Academy
       year: 2022 - 2023
@@ -62,6 +68,7 @@
       institution: Department of Electrical Engineering, Korea Military Academy
       year: 2020 - 2021
       home: true
+      home_url: https://www.kma.ac.kr/
     - title: Officer (Major)
       institution: Republic of Korea Army
       year: 2016 - Present

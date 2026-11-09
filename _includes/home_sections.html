@@ -3,13 +3,13 @@
 <h2>Education</h2>
 <div class="home-rows">
 {%- for e in edu.contents -%}
-<div class="home-row"><div class="home-year">{{ e.year }}</div><div class="home-main"><div class="home-title">{{ e.home_school | default: e.institution }}</div><div>{{ e.title }}</div>{% if e.home_note %}<div class="home-sub">{{ e.home_note }}</div>{% endif %}</div></div>
+<div class="home-row"><div class="home-year">{{ e.year }}</div><div class="home-main"><div class="home-title">{% if e.home_url %}<a href="{{ e.home_url }}">{{ e.home_school | default: e.institution }}</a>{% else %}{{ e.home_school | default: e.institution }}{% endif %}</div><div>{{ e.title }}</div>{% if e.home_advisor %}<div class="home-sub">Advisor: {% if e.home_advisor_url %}<a href="{{ e.home_advisor_url }}">{{ e.home_advisor }}</a>{% else %}{{ e.home_advisor }}{% endif %}</div>{% endif %}</div></div>
 {%- endfor -%}
 </div>
 <h2>Appointments</h2>
 <div class="home-rows">
 {%- for w in work.contents -%}{%- if w.home -%}
-<div class="home-row"><div class="home-year">{{ w.year }}</div><div class="home-main"><div class="home-title">{{ w.title }}</div><div class="home-sub">{{ w.institution }}</div></div></div>
+<div class="home-row"><div class="home-year">{{ w.year }}</div><div class="home-main"><div class="home-title">{{ w.title }}</div><div class="home-sub">{% if w.home_url %}<a href="{{ w.home_url }}">{{ w.institution }}</a>{% else %}{{ w.institution }}{% endif %}</div></div></div>
 {%- endif -%}{%- endfor -%}
 </div>
 <h2>Research interests</h2>

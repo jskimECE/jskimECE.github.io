@@ -50,3 +50,37 @@
     flex-basis: auto;
   }
 }
+
+.home h2 {
+  font-size: 1.45rem;
+  font-weight: 500;
+  color: var(--global-theme-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 0.35rem;
+  margin-top: 2.25rem;
+  margin-bottom: 0.9rem;
+}
+
+.home-title a,
+.home-sub a {
+  color: inherit;
+}
+
+.home-sub a {
+  text-decoration: underline;
+  text-decoration-color: var(--global-divider-color);
+}
+
+.home-title a:hover,
+.home-sub a:hover {
+  color: var(--global-theme-color);
+}
+
+.publications .title a {
+  color: inherit;
+}
+
+.publications .title a:hover {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
