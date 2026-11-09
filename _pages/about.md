@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student, Department of Electrical and Computer Engineering, <a href='https://ece.duke.edu/'>Duke University</a>
+subtitle: Ph.D. Student, Pierre R. Lamond Department of Electrical and Computer Engineering, <a href='https://ece.duke.edu/'>Duke University</a>
 
 profile:
   align: right

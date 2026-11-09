@@ -81,12 +81,16 @@
   type: time_table
   contents:
     - title: AI-Assisted Trauma Video Review for Resuscitation Assessment
+      institution: Kamaleswaran Lab, Duke University
       year: 2026 - Present
     - title: Generative EHR Foundation Models for Pediatric Perioperative Risk Prediction
+      institution: Kamaleswaran Lab, Duke University
       year: 2025 - Present
-    - title: Seismocardiography-Based Valvular Heart Disease Classification with Multimodal Deep Learning
+    - title: Valvular Heart Disease Classification from Seismocardiography
+      institution: Kamaleswaran Lab, Duke University
       year: 2025
     - title: Organization and Evaluation of the 2024 Pediatric Sepsis Data Challenge
+      institution: Kamaleswaran Lab, Duke University
       year: 2025
     - title: Development of Methods for Tracking, Verification, and Removal of Unknown Terrorist Substances (III)
       institution: National Institute of Chemical Safety
