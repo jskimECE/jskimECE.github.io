@@ -16,14 +16,16 @@
     - title: Ph.D. Student, Electrical and Computer Engineering
       institution: Duke University, Durham, North Carolina, USA
       year: 2025 - Present
-      home_sub: "Duke University · Advisor: Prof. Rishikesan Kamaleswaran"
+      home_school: Duke University
+      home_note: "Advisor: Prof. Rishikesan Kamaleswaran"
       description:
         - Supervised by Prof. Rishikesan Kamaleswaran
         - "GPA: 4.0/4.0"
     - title: M.S., Electrical and Computer Engineering
       institution: Texas A&M University, College Station, Texas, USA
       year: 2018 - 2020
-      home_sub: "Texas A&M University · Advisor: Prof. Robert D. Nevels"
+      home_school: Texas A&M University
+      home_note: "Advisor: Prof. Robert D. Nevels"
       description:
         - Supervised by Prof. Robert D. Nevels
         - "Thesis: Propagation of High Power and Short Electromagnetic Wave in Nonlinear Dispersive Media"
@@ -31,7 +33,8 @@
     - title: B.S., Electrical Engineering
       institution: Korea Military Academy, Seoul, Republic of Korea
       year: 2012 - 2016
-      home_sub: "Korea Military Academy · Advisor: Prof. Yongchul Kim"
+      home_school: Korea Military Academy
+      home_note: "Advisor: Prof. Yongchul Kim"
       description:
         - Supervised by Prof. Yongchul Kim
         - "GPA (Major): 4.14/4.3, graduated with honors"
